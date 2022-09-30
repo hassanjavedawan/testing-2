@@ -6,7 +6,7 @@ const FAQ = () => {
   const data = {
     rows: [
       {
-        title: "title",
+        title: "HEOOOOOOOOOOO",
         content: `content`,
       },
       {
